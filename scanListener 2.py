@@ -1,6 +1,5 @@
 # ---------------------------- Help Block ---------------------------------------------
-# **************** ECET 581 - FALL 2018 - LAB 3 - QUESTION 2***************************
-# ******************* Group Members - Pawan Rao & Vishnu ******************************
+
 # This program prints the data-indexes of the +90 and -90 scan values based on the data in LaserScan 
 # data record. To do so, the program defines a 'listener()' node that subscribes to the LaserScan Topic.
 # This node works based on software-interrups caused by the LIDAR scan data being published to the LaserScan 
